@@ -1,0 +1,3 @@
+package iotmaker_santa_isabel_theater_commonTypes
+
+type Number float64
